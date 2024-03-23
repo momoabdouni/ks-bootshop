@@ -8,11 +8,12 @@
         "slide_j46kwk": {
           "type": "slide",
           "settings": {
-            "announcement": "Announce something important here"
+            "announcement": "Bienvenu chez Mamy Home !"
           }
         },
         "slide_mwF4Tk": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "announcement": "Free Shipping For All Orders Over $100"
           }
@@ -49,9 +50,8 @@
           "type": "mobile",
           "settings": {
             "container_max_width": "",
-            "logo": "shopify:\/\/shop_images\/ks-bootshop-logo.png",
             "logo_height": 30,
-            "main_menu": "dropdown-menu",
+            "main_menu": "",
             "collections_menu": "",
             "social_icons": true,
             "pt": 2,
@@ -62,9 +62,8 @@
           "type": "desktop",
           "settings": {
             "container_max_width": "",
-            "logo": "shopify:\/\/shop_images\/ks-bootshop-logo.png",
             "logo_height": 32,
-            "main_menu": "dropdown-menu",
+            "main_menu": "main-menu",
             "pt": 5,
             "pb": 5
           }

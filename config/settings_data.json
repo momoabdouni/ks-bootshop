@@ -44,11 +44,11 @@
     "cart_upsells_limit": 5,
     "cart_gift_upsell_product": "gift-wrap",
     "recently_viewed": true,
-    "social_facebook": "#",
-    "social_instagram": "#",
-    "social_x": "#",
-    "social_tiktok": "#",
-    "social_youtube": "#",
+    "social_facebook": "",
+    "social_instagram": "",
+    "social_x": "",
+    "social_tiktok": "",
+    "social_youtube": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/logo.png",
     "checkout_logo_size": "small",
     "checkout_accent_color": "#dc3545",
@@ -87,13 +87,8 @@
     "product_card_wishlist_color": "text-primary",
     "product_card_img_carousel_dark": false,
     "cart_img_border": "img-thumbnail",
-    "content_for_index": [],
-    "blocks": {
-      "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": [
+
+    ]
   }
 }
