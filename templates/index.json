@@ -6,8 +6,8 @@
         "slide_TddqxQ": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.10_cfd287aa.jpg",
-            "img_desktop": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.10_cfd287aa.jpg",
+            "img_mobile": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.09_6781eb45.jpg",
+            "img_desktop": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.09_6781eb45.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 40,
             "overlay_blur": 0,
@@ -153,7 +153,7 @@
         "border_top_width": 6,
         "border_bottom_width": 16,
         "border_color": "border-body",
-        "border_opacity": 100,
+        "border_opacity": 0,
         "container_max_width": "",
         "header_title": "Nos services",
         "header_title_font_size": "h2",
@@ -266,6 +266,7 @@
     },
     "separator_pMbxtB": {
       "type": "separator",
+      "disabled": true,
       "settings": {
         "bg_color": "bg-secondary",
         "bg_opacity": 25,
