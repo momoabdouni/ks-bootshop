@@ -137,96 +137,6 @@
         "pb": 7
       }
     },
-    "featured_collections_n3Br7m": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_rznnLq": {
-          "type": "collection",
-          "settings": {
-            "collection": "men",
-            "title": ""
-          }
-        },
-        "collection_KdHXk9": {
-          "type": "collection",
-          "settings": {
-            "collection": "women",
-            "title": ""
-          }
-        },
-        "collection_b7ELCB": {
-          "type": "collection",
-          "settings": {
-            "collection": "children",
-            "title": ""
-          }
-        },
-        "collection_XRMXNt": {
-          "type": "collection",
-          "settings": {
-            "collection": "babies",
-            "title": ""
-          }
-        },
-        "collection_fQ9QDf": {
-          "type": "collection",
-          "settings": {
-            "collection": "latest",
-            "title": ""
-          }
-        },
-        "collection_kRQqkR": {
-          "type": "collection",
-          "settings": {
-            "collection": "sale",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_rznnLq",
-        "collection_KdHXk9",
-        "collection_b7ELCB",
-        "collection_XRMXNt",
-        "collection_fQ9QDf",
-        "collection_kRQqkR"
-      ],
-      "disabled": true,
-      "settings": {
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-body",
-        "border_top_width": 1,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 10,
-        "container_max_width": "",
-        "header_title": "Featured Collections",
-        "header_title_font_size": "h3",
-        "header_description": "<p>Add on optional description for this section<\/p>",
-        "header_description_font_size": "",
-        "slider_speed": 300,
-        "slider_navigation": true,
-        "slider_pagination": true,
-        "slider_pagination_type": "bullets",
-        "slider_scrollbar": true,
-        "slider_partial_slides_mobile": false,
-        "slider_autoplay": 0,
-        "collection_card_text_align": "text-center",
-        "collection_card_img_orientation": "ratio-16x9",
-        "collection_card_img_border": "img-thumbnail",
-        "collection_card_show_title": true,
-        "collection_card_title_font_size": "fs-md",
-        "collection_card_title_position": "collection-card-title-normal",
-        "collection_card_show_product_count": true,
-        "breakpoint_mobile": 1,
-        "breakpoint_tablet": 2,
-        "breakpoint_desktop": 3,
-        "pt": 11,
-        "pb": 11
-      }
-    },
     "separator_kfq8kz": {
       "type": "separator",
       "disabled": true,
@@ -295,6 +205,7 @@
         "item_qp7jPa": {
           "type": "item",
           "settings": {
+            "img": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.10_00fee151.jpg",
             "title": "A l'ecole",
             "description": "<p>Notre<br\/>engagement envers les écoles se traduit par une approche spécialement adaptée<br\/>aux besoins nutritionnels des enfants en pleine croissance. Nous proposons des<br\/>repas équilibrés, colorés et savoureux qui encouragent de saines habitudes<br\/>alimentaires dès le plus jeune âge. Notre objectif est de fournir des repas<br\/>nutritifs et délicieux qui stimulent la concentration, favorisent le bien-être<br\/>et soutiennent le développement global des enfants.<\/p>",
             "btn_text": "",
@@ -304,6 +215,7 @@
         "item_h9wANh": {
           "type": "item",
           "settings": {
+            "img": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.12_9c8027ca.jpg",
             "title": "En maison de repos",
             "description": "<p>Dans les maisons<br\/>de repos, nous comprenons l'importance de la nutrition pour le bien-être et le<br\/>confort des résidents. Notre cuisine propose des plats variés et adaptés aux<br\/>besoins spécifiques des personnes âgées, en mettant l'accent sur la texture, la<br\/>saveur et la facilité de digestion. Nous nous engageons à offrir des repas qui<br\/>apportent plaisir et réconfort, tout en contribuant à maintenir la santé et la<br\/>vitalité des résidents.<\/p>",
             "btn_text": "",
@@ -313,6 +225,7 @@
         "item_hAPJWn": {
           "type": "item",
           "settings": {
+            "img": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.10_63fe9b4e.jpg",
             "title": "Au travail",
             "description": "<p><br\/>Pour les<br\/>entreprises et les lieux de travail, nous proposons des solutions de<br\/>restauration pratiques et équilibrées qui répondent aux exigences du quotidien<br\/>professionnel. <\/p><p>Nos menus sont<br\/>conçus pour être nourrissants, rapides et adaptés aux différents horaires et<br\/>modes de vie des employés. Nous mettons l'accent sur la qualité des<br\/>ingrédients, la diversité des plats et le service efficace, afin d'offrir une<br\/>expérience culinaire agréable et satisfaisante sur le lieu de travail.<\/p><p> <\/p><p>Nous sommes<br\/>également présents dans l'organisation de vos business lunch, soirées d'équipe<br\/>et réceptions clients, grâce à notre large gamme de produits qui répondra à<br\/>toutes vos exigences.<\/p>",
             "btn_text": "",
@@ -364,30 +277,6 @@
         "breakpoint_desktop": 4,
         "pt": 10,
         "pb": 11
-      }
-    },
-    "html_Y7Cp8x": {
-      "type": "html",
-      "disabled": true,
-      "settings": {
-        "liquid": "<p class=\"alert alert-primary text-center\">Current datetime is: <b>{{ \"now\" | date: \"%Y-%m-%d %H:%M\" }}<\/b><\/p>\n\n<iframe class=\"rounded\" src=\"  https:\/\/www.google.com\/maps\/embed\/v1\/MAP_MODE?key=AIzaSyDCbLcFD21s8SIcKEtB-TIf8k5BnFz-eMA&parameters\" \n\n\nwidth=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-body",
-        "border_top_width": 1,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 10,
-        "container": "container",
-        "container_max_width": "",
-        "text_align": "text-center",
-        "header_title": "HTML and Liquid",
-        "header_title_font_size": "h3",
-        "header_description": "<p>Add on optional description for this section<\/p>",
-        "header_description_font_size": "fs-md",
-        "pt": 10,
-        "pb": 10
       }
     },
     "faq_7TT7z4": {
@@ -624,11 +513,9 @@
     "hero_carousel_CmDneU",
     "featured_products_nXJKQn",
     "richtext_4miPYL",
-    "featured_collections_n3Br7m",
     "separator_kfq8kz",
     "media_with_text_xTY8gi",
     "card_slider_BFzjjF",
-    "html_Y7Cp8x",
     "faq_7TT7z4",
     "testimonials_eFtnyC",
     "separator_pMbxtB",
