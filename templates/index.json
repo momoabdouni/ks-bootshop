@@ -23,13 +23,13 @@
         "slide_TddqxQ": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify:\/\/shop_images\/istockphoto-1289062088-612x612.jpg",
-            "img_desktop": "shopify:\/\/shop_images\/istockphoto-1289062088-612x612.jpg",
+            "img_mobile": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.10_2aeef488.jpg",
+            "img_desktop": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.10_2aeef488.jpg",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "overlay_blur": 2,
+            "overlay_opacity": 40,
+            "overlay_blur": 0,
             "subtitle": "Mamy Home",
-            "title": "Bienvenu chez Mamy Home !",
+            "title": "Plus de 30 ans de passion pour une cuisine saine, savoureuse et responsable.",
             "description": "",
             "btn_primary_text": "",
             "btn_primary_url": "",
@@ -136,34 +136,6 @@
         "btn_secondary_color": "btn-secondary",
         "pt": 12,
         "pb": 7
-      }
-    },
-    "richtext_AtYwxr": {
-      "type": "richtext",
-      "disabled": true,
-      "settings": {
-        "bg_color": "bg-primary",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-white",
-        "border_top_width": 0,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 100,
-        "container_max_width": "900",
-        "text_align": "text-center",
-        "title": "Nous sommes spécialisés dans:  La préparation et la distribution de repas destinés aux collectivités La gestion et la mise en place de nouvelles infrastructures de restauration collective La confection et la distribution de potages frais La confection et la distribution de sandwiches dans les entreprises.",
-        "title_font_size": "h2",
-        "description": "",
-        "description_font_size": "fs-md",
-        "btn_primary_text": "Primary button",
-        "btn_primary_url": "",
-        "btn_primary_color": "btn-white",
-        "btn_secondary_text": "Secondary button",
-        "btn_secondary_url": "",
-        "btn_secondary_color": "btn-light-white",
-        "pt": 11,
-        "pb": 11
       }
     },
     "featured_collections_n3Br7m": {
@@ -348,31 +320,11 @@
             "btn_url": ""
           }
         },
-        "item_9EkHYL": {
+        "item_fhxAj8": {
           "type": "item",
           "settings": {
-            "title": "Notre cuisine centrale, ayant un pouvoir de débit suffisant, satisfait à ce jour une vingtaine d'établissements scolaires répartis sur Bruxelles.  De plus, nous préparons des repas pour personnes âgées en respectant toutes les particularités de leurs régimes.",
+            "title": "",
             "description": "",
-            "btn_text": "",
-            "btn_url": ""
-          }
-        },
-        "item_iKKgHJ": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "title": "Fifth Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
-          }
-        },
-        "item_Je3xNm": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "title": "Sixth Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
             "btn_text": "Learn more",
             "btn_url": ""
           }
@@ -382,11 +334,8 @@
         "item_qp7jPa",
         "item_h9wANh",
         "item_hAPJWn",
-        "item_9EkHYL",
-        "item_iKKgHJ",
-        "item_Je3xNm"
+        "item_fhxAj8"
       ],
-      "disabled": true,
       "settings": {
         "bg_color": "bg-body",
         "bg_opacity": 66,
@@ -397,8 +346,8 @@
         "border_color": "border-body",
         "border_opacity": 51,
         "container_max_width": "",
-        "header_title": "Qu'offrons nous ?",
-        "header_title_font_size": "h3",
+        "header_title": "Nos services",
+        "header_title_font_size": "h2",
         "header_description": "",
         "header_description_font_size": "fs-md",
         "slider_speed": 300,
@@ -411,7 +360,7 @@
         "item_bg_color": "bg-body",
         "item_bg_opacity": 0,
         "item_text_color": "text-body",
-        "item_border_width": 5,
+        "item_border_width": 3,
         "item_border_color": "",
         "item_border_opacity": 100,
         "item_shadow": "shadow-sm",
@@ -644,6 +593,7 @@
     },
     "blog_slider_UUweWT": {
       "type": "blog-slider",
+      "disabled": true,
       "settings": {
         "bg_color": "bg-body",
         "bg_opacity": 100,
@@ -698,7 +648,6 @@
     "hero_carousel_CmDneU",
     "featured_products_nXJKQn",
     "richtext_4miPYL",
-    "richtext_AtYwxr",
     "featured_collections_n3Br7m",
     "separator_kfq8kz",
     "media_with_text_xTY8gi",
