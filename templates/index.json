@@ -252,6 +252,18 @@
         "pb": 11
       }
     },
+    "separator_3d9tRD": {
+      "type": "separator",
+      "settings": {
+        "bg_color": "bg-secondary",
+        "bg_opacity": 25,
+        "height": 1,
+        "container": "container",
+        "container_max_width": "",
+        "pt": 0,
+        "pb": 0
+      }
+    },
     "faq_7TT7z4": {
       "type": "faq",
       "blocks": {
@@ -442,18 +454,6 @@
         "pb": 12
       }
     },
-    "separator_pMbxtB": {
-      "type": "separator",
-      "settings": {
-        "bg_color": "bg-secondary",
-        "bg_opacity": 25,
-        "height": 1,
-        "container": "container",
-        "container_max_width": "",
-        "pt": 0,
-        "pb": 0
-      }
-    },
     "richtext_9eDkjz": {
       "type": "richtext",
       "settings": {
@@ -480,6 +480,18 @@
         "pt": 9,
         "pb": 9
       }
+    },
+    "separator_pMbxtB": {
+      "type": "separator",
+      "settings": {
+        "bg_color": "bg-secondary",
+        "bg_opacity": 25,
+        "height": 1,
+        "container": "container",
+        "container_max_width": "",
+        "pt": 0,
+        "pb": 0
+      }
     }
   },
   "order": [
@@ -488,9 +500,10 @@
     "separator_kfq8kz",
     "media_with_text_xTY8gi",
     "card_slider_BFzjjF",
+    "separator_3d9tRD",
     "faq_7TT7z4",
     "testimonials_eFtnyC",
-    "separator_pMbxtB",
-    "richtext_9eDkjz"
+    "richtext_9eDkjz",
+    "separator_pMbxtB"
   ]
 }
