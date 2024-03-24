@@ -61,8 +61,10 @@
         "069e870e-aed4-4929-bf73-c0daca8be18e": {
           "type": "desktop",
           "settings": {
-            "container_max_width": "1920",
-            "logo_height": 32,
+            "container_max_width": "",
+            "logo": "shopify:\/\/shop_images\/Capture_d_ecran_2024-03-24_033943-removebg-preview.png",
+            "logo_transparent": "shopify:\/\/shop_images\/Capture_d_ecran_2024-03-24_033943-removebg-preview.png",
+            "logo_height": 50,
             "main_menu": "main-menu",
             "pt": 5,
             "pb": 5
