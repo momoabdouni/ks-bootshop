@@ -26,14 +26,14 @@
             "img_mobile": "shopify:\/\/shop_images\/istockphoto-1289062088-612x612.jpg",
             "img_desktop": "shopify:\/\/shop_images\/istockphoto-1289062088-612x612.jpg",
             "overlay_color": "#000000",
-            "overlay_opacity": 10,
+            "overlay_opacity": 30,
             "overlay_blur": 2,
-            "subtitle": "Developed by KondaSoft",
-            "title": "Simple to Use, Easy to Customize",
-            "description": "<p>Free Shopify Theme inspired by simplicity and elegance.<\/p>",
-            "btn_primary_text": "Primary button",
+            "subtitle": "Mamy Home",
+            "title": "Bienvenue sur le site de Mamy Home",
+            "description": "",
+            "btn_primary_text": "",
             "btn_primary_url": "",
-            "btn_secondary_text": "Secondary button",
+            "btn_secondary_text": "",
             "btn_secondary_url": ""
           }
         }
@@ -342,7 +342,6 @@
         "item_hAPJWn": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/istockphoto-1289062088-612x612.jpg",
             "title": "Nous produisons actuellement +\/- 3500 repas répartis sur différentes cuisines et +\/- 2500 litres de potages en saison (novembre à mars).",
             "description": "<p><\/p><p> <\/p>",
             "btn_text": "",
@@ -351,11 +350,10 @@
         },
         "item_9EkHYL": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "title": "Fourth Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
-            "btn_text": "Learn more",
+            "title": "Notre cuisine centrale, ayant un pouvoir de débit suffisant, satisfait à ce jour une vingtaine d'établissements scolaires répartis sur Bruxelles.  De plus, nous préparons des repas pour personnes âgées en respectant toutes les particularités de leurs régimes.",
+            "description": "",
+            "btn_text": "",
             "btn_url": ""
           }
         },
@@ -393,10 +391,10 @@
         "bg_opacity": 66,
         "bg_gradient": "",
         "text_color": "text-body",
-        "border_top_width": 0,
+        "border_top_width": 1,
         "border_bottom_width": 3,
         "border_color": "border-body",
-        "border_opacity": 100,
+        "border_opacity": 51,
         "container_max_width": "",
         "header_title": "Qu'offrons nous ?",
         "header_title_font_size": "h3",
@@ -412,11 +410,11 @@
         "item_bg_color": "bg-body",
         "item_bg_opacity": 0,
         "item_text_color": "text-body",
-        "item_border_width": 1,
+        "item_border_width": 5,
         "item_border_color": "",
         "item_border_opacity": 100,
         "item_shadow": "shadow-sm",
-        "item_text_align": "text-start",
+        "item_text_align": "text-center",
         "item_img_orientation": "ratio-4x3",
         "item_title_font_size": "h5",
         "item_description_font_size": "",
@@ -432,7 +430,7 @@
     "html_Y7Cp8x": {
       "type": "html",
       "settings": {
-        "liquid": "<p class=\"alert alert-primary text-center\">Current datetime is: <b>{{ \"now\" | date: \"%Y-%m-%d %H:%M\" }}<\/b><\/p>\n\n<iframe class=\"rounded\" src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d5458.176837636101!2d7.264440042281333!3d43.69609386612476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cddaa162b4a50b%3A0x77566707bed909ce!2sFontaine%20du%20Soleil!5e0!3m2!1sen!2s!4v1651756644654!5m2!1sen!2s\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "liquid": "<p class=\"alert alert-primary text-center\">Current datetime is: <b>{{ \"now\" | date: \"%Y-%m-%d %H:%M\" }}<\/b><\/p>\n\n<iframe class=\"rounded\" src=\"  https:\/\/www.google.com\/maps\/embed\/v1\/MAP_MODE?key=AIzaSyDCbLcFD21s8SIcKEtB-TIf8k5BnFz-eMA&parameters\" \n\n\nwidth=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
         "bg_color": "bg-body",
         "bg_opacity": 100,
         "bg_gradient": "",
