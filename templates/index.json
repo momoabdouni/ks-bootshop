@@ -7,7 +7,6 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "img_desktop": "shopify:\/\/shop_images\/istockphoto-1289062088-612x612.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
@@ -581,46 +580,6 @@
         "pb": 12
       }
     },
-    "blog_slider_UUweWT": {
-      "type": "blog-slider",
-      "disabled": true,
-      "settings": {
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-body",
-        "border_top_width": 4,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 11,
-        "container_max_width": "500",
-        "header_title": "Qu'offrons nous ?",
-        "header_title_font_size": "h3",
-        "header_description": "<h6>Respectant toutes les normes d'hygiène en la matière, nous garantissons une production quotidienne de première qualité.<br\/><\/h6><h6>Nous ne travaillons qu'avec des fournisseurs de tout premier ordre; ceux-ci nous garantissent une matière première d'excellente qualité. Notre personnel qualifié met son savoir-faire au service de la satisfaction de nos nombreux clients.<br\/><\/h6><h6>Nous produisons actuellement +\/- 3500 repas répartis sur différentes cuisines et +\/- 2500 litres de potages en saison (novembre à mars).<br\/><br\/>Notre cuisine centrale, ayant un pouvoir de débit suffisant, satisfait à ce jour une vingtaine d'établissements scolaires répartis sur Bruxelles.  De plus, nous préparons des repas pour personnes âgées en respectant toutes les particularités de leurs régimes.<\/h6>",
-        "header_description_font_size": "fs-md",
-        "slider_speed": 300,
-        "slider_navigation": false,
-        "slider_pagination": true,
-        "slider_pagination_type": "bullets",
-        "slider_scrollbar": true,
-        "slider_partial_slides_mobile": true,
-        "slider_autoplay": 0,
-        "blog": "news",
-        "limit": 5,
-        "article_card_text_align": "text-start",
-        "article_card_img_orientation": "ratio-16x9",
-        "article_card_img_border": "img-thumbnail",
-        "article_card_title_size": "fs-xl",
-        "article_card_meta": true,
-        "article_card_tags": true,
-        "article_card_excerpt": true,
-        "breakpoint_mobile": 1,
-        "breakpoint_tablet": 2,
-        "breakpoint_desktop": 3,
-        "pt": 10,
-        "pb": 12
-      }
-    },
     "separator_pMbxtB": {
       "type": "separator",
       "settings": {
@@ -672,7 +631,6 @@
     "html_Y7Cp8x",
     "faq_7TT7z4",
     "testimonials_eFtnyC",
-    "blog_slider_UUweWT",
     "separator_pMbxtB",
     "richtext_9eDkjz"
   ]
