@@ -27,7 +27,7 @@
             "overlay_color": "#000000",
             "overlay_opacity": 40,
             "overlay_blur": 0,
-            "subtitle": "Mamy Home",
+            "subtitle": "",
             "title": "Plus de 30 ans de passion pour une cuisine saine, savoureuse et responsable.",
             "description": "",
             "btn_primary_text": "",
@@ -168,6 +168,7 @@
       "block_order": [
         "row_JkMDbM"
       ],
+      "disabled": true,
       "settings": {
         "container_max_width": ""
       }
