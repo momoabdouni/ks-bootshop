@@ -1677,3 +1677,8 @@ a:hover .article-card-img-wrapper img {
   border-bottom-style: dashed;
   border-bottom-width: 1px;
 }
+
+
+ #cart-icon-bubble, #cart-icon-bubble--mobile {
+    display: none !important;
+}
