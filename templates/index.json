@@ -274,6 +274,54 @@
         "pt": 0,
         "pb": 0
       }
+    },
+    "media_with_text_BWwRAj": {
+      "type": "media-with-text",
+      "blocks": {
+        "row_wTnXNt": {
+          "type": "row",
+          "settings": {
+            "bg_color": "bg-body",
+            "bg_opacity": 100,
+            "bg_gradient": "",
+            "text_color": "text-body",
+            "border_top_width": 0,
+            "border_bottom_width": 0,
+            "border_color": "border-body",
+            "border_opacity": 100,
+            "media_align_desktop": "",
+            "media_border": "img-thumbnail",
+            "img": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-25_a_00.24.32_177c4ecb.jpg",
+            "img_orientation": "adapt",
+            "video_ratio": "adapt",
+            "video_autoplay": true,
+            "video_loop": true,
+            "video_muted": true,
+            "video_controls": true,
+            "text_align_mobile": "text-center",
+            "text_align_desktop": "text-desktop-start",
+            "subtitle": "Optional Subtitle",
+            "title": "Qui sommes nous ?",
+            "title_font_size": "h2",
+            "description": "<p>Either show an image, video (MP4) or an external video (YouTube). If no text block is shown, the media will take full section's space.<\/p>",
+            "description_font_size": "fs-md",
+            "btn_primary_text": "Primary button",
+            "btn_primary_url": "",
+            "btn_primary_color": "btn-primary",
+            "btn_secondary_text": "Secondary button",
+            "btn_secondary_url": "",
+            "btn_secondary_color": "btn-secondary",
+            "pt": 5,
+            "pb": 5
+          }
+        }
+      },
+      "block_order": [
+        "row_wTnXNt"
+      ],
+      "settings": {
+        "container_max_width": ""
+      }
     }
   },
   "order": [
@@ -283,6 +331,7 @@
     "card_slider_BFzjjF",
     "media_with_text_xTY8gi",
     "richtext_9eDkjz",
-    "separator_pMbxtB"
+    "separator_pMbxtB",
+    "media_with_text_BWwRAj"
   ]
 }
