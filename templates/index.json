@@ -114,7 +114,7 @@
           "settings": {
             "img": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.10_00fee151.jpg",
             "title": "A l'ecole",
-            "description": "<p>Notre engagement envers les écoles se traduit par une approche spécialement adaptée aux besoins nutritionnels des enfants en pleine croissance. Nous proposons des repas équilibrés, colorés et savoureux qui encouragent de saines habitudes alimentaires dès le plus jeune âge. Notre objectif est de fournir des repas nutritifs et délicieux qui stimulent la concentration, favorisent le bien-être et soutiennent le développement global des enfants.<\/p><p><\/p>",
+            "description": "<p>Notre engagement envers les écoles se traduit par une approche spécialement adaptée aux besoins nutritionnels des enfants en pleine croissance. Nous proposons des repas équilibrés, colorés et savoureux qui encouragent de saines habitudes alimentaires dès le plus jeune âge. Notre objectif est de fournir des repas nutritifs et délicieux qui stimulent la concentration, favorisent le bien-être et soutiennent le développement global des enfants.<\/p>",
             "btn_text": "",
             "btn_url": ""
           }
@@ -162,7 +162,7 @@
         "slider_speed": 300,
         "slider_navigation": true,
         "slider_pagination": true,
-        "slider_pagination_type": "bullets",
+        "slider_pagination_type": "fraction",
         "slider_scrollbar": true,
         "slider_partial_slides_mobile": true,
         "slider_autoplay": 0,
@@ -172,9 +172,9 @@
         "item_border_width": 4,
         "item_border_color": "border-primary",
         "item_border_opacity": 100,
-        "item_shadow": "shadow-sm",
+        "item_shadow": "shadow-md",
         "item_text_align": "text-start",
-        "item_img_orientation": "ratio-4x3",
+        "item_img_orientation": "ratio-16x9",
         "item_title_font_size": "h5",
         "item_description_font_size": "fs-md",
         "item_btn_color": "btn-outline-primary",
