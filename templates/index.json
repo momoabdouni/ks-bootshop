@@ -22,8 +22,8 @@
         "slide_TddqxQ": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.10_2aeef488.jpg",
-            "img_desktop": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.10_2aeef488.jpg",
+            "img_mobile": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.09_6781eb45.jpg",
+            "img_desktop": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.09_6781eb45.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 40,
             "overlay_blur": 0,
@@ -217,7 +217,7 @@
         "bg_gradient": "",
         "text_color": "text-body",
         "border_top_width": 1,
-        "border_bottom_width": 3,
+        "border_bottom_width": 1,
         "border_color": "border-body",
         "border_opacity": 51,
         "container_max_width": "",
@@ -242,7 +242,7 @@
         "item_text_align": "text-center",
         "item_img_orientation": "ratio-4x3",
         "item_title_font_size": "h5",
-        "item_description_font_size": "",
+        "item_description_font_size": "fs-sm",
         "item_btn_color": "btn-outline-primary",
         "item_btn_size": "btn-sm",
         "breakpoint_mobile": 1,
