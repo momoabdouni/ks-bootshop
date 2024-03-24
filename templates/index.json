@@ -114,7 +114,7 @@
           "settings": {
             "img": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.10_00fee151.jpg",
             "title": "A l'ecole",
-            "description": "<p>Notre engagement envers les écoles se traduit par une approche spécialement adaptée aux besoins nutritionnels des enfants en pleine croissance. Nous proposons des repas équilibrés, colorés et savoureux qui encouragent de saines habitudes alimentaires dès le plus jeune âge. Notre objectif est de fournir des repas nutritifs et délicieux qui stimulent la concentration, favorisent le bien-être et soutiennent le développement global des enfants.<\/p>",
+            "description": "<p>Notre engagement envers les écoles se traduit par une approche spécialement adaptée aux besoins nutritionnels des enfants en pleine croissance. Nous proposons des repas équilibrés, colorés et savoureux qui encouragent de saines habitudes alimentaires dès le plus jeune âge. Notre objectif est de fournir des repas nutritifs et délicieux qui stimulent la concentration, favorisent le bien-être et soutiennent le développement global des enfants.<\/p><p><\/p>",
             "btn_text": "",
             "btn_url": ""
           }
@@ -124,7 +124,7 @@
           "settings": {
             "img": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.12_9c8027ca.jpg",
             "title": "En maison de repos",
-            "description": "<p>Dans les maisons de repos, nous comprenons l'importance de la nutrition pour le bien-être et le confort des résidents. Notre cuisine propose des plats variés et adaptés aux besoins spécifiques des personnes âgées, en mettant l'accent sur la texture, la<br\/>saveur et la facilité de digestion. Nous nous engageons à offrir des repas qui apportent plaisir et réconfort, tout en contribuant à maintenir la santé et la vitalité des résidents.<\/p>",
+            "description": "<p>Dans les maisons de repos, nous comprenons l'importance de la nutrition pour le bien-être et le confort des résidents. Notre cuisine propose des plats variés et adaptés aux besoins spécifiques des personnes âgées, en mettant l'accent sur la texture, la<br\/>saveur et la facilité de digestion. Nous nous engageons à offrir des repas qui apportent plaisir et réconfort, tout en contribuant à maintenir la santé et la vitalité des résidents.<\/p><p><\/p><p><\/p><p><\/p>",
             "btn_text": "",
             "btn_url": ""
           }
@@ -303,9 +303,9 @@
             "text_align_mobile": "text-center",
             "text_align_desktop": "text-desktop-center",
             "subtitle": "",
-            "title": "Qui sommes nous ?",
+            "title": "Notre mission",
             "title_font_size": "h2",
-            "description": "<p>Depuis plus de trois décennies, notre société s'engage avec passion à fournir des solutions de restauration de qualité pour les collectivités. Forts de notre longue expérience, nous avons évolué pour devenir un pilier incontournable dans le domaine de la cuisine collective. Notre histoire est celle d'un engagement constant envers l'excellence culinaire, le service impeccable et le respect de l'environnement.<br\/><\/p><p>Chaque jour, notre équipe dévouée met son expertise au service de nos clients, en proposant une cuisine responsable et savoureuse. Nous croyons fermement que la nourriture ne devrait pas seulement nourrir le corps, mais aussi éveiller les papilles et nourrir l'esprit. C'est pourquoi nous nous efforçons de créer des repas qui allient fraîcheur, saveur et équilibre nutritionnel.<\/p><p>Au fil des années, nous avons tissé des liens solides avec nos clients, basés sur la confiance et le respect mutuel. Nous sommes fiers de compter parmi nos partenaires des écoles, des entreprises, des hôpitaux et d'autres institutions qui partagent notre vision d'une alimentation saine et responsable.<\/p><p>Aujourd'hui, alors que nous célébrons nos 30 ans d'existence, nous restons plus que jamais déterminés à innover et à nous adapter aux besoins changeants de nos clients et de notre planète. Nous sommes impatients de continuer ce voyage avec vous, en mettant notre expérience et notre passion au service de votre satisfaction.<\/p>",
+            "description": "<p>Depuis plus de trois décennies, notre société s'engage avec passion à fournir des solutions de restauration de qualité pour les collectivités. Forts de notre longue expérience, nous avons évolué pour devenir un pilier incontournable dans le domaine de la cuisine collective. <br\/>Notre histoire est celle d'un engagement constant envers l'excellence culinaire, le service impeccable et le respect de l'environnement.<br\/><br\/>Chaque jour, notre équipe dévouée met son expertise au service de nos clients, en proposant une cuisine responsable et savoureuse. <br\/>Nous croyons fermement que la nourriture ne devrait pas seulement nourrir le corps, mais aussi éveiller les papilles et nourrir l'esprit. <br\/>C'est pourquoi nous nous efforçons de créer des repas qui allient fraîcheur, saveur et équilibre nutritionnel.<br\/><br\/>Nous sommes fiers de compter parmi nos partenaires des écoles, des entreprises, des hôpitaux et d'autres institutions qui partagent notre vision d'une alimentation saine et responsable.<\/p>",
             "description_font_size": "fs-md",
             "btn_primary_text": "",
             "btn_primary_url": "",
