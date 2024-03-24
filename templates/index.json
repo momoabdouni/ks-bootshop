@@ -296,8 +296,8 @@
         "item_qp7jPa": {
           "type": "item",
           "settings": {
-            "title": "Respectant toutes les normes d'hygiène en la matière, nous garantissons une production quotidienne de première qualité.",
-            "description": "",
+            "title": "A l'ecole",
+            "description": "<p>Notre<br\/>engagement envers les écoles se traduit par une approche spécialement adaptée<br\/>aux besoins nutritionnels des enfants en pleine croissance. Nous proposons des<br\/>repas équilibrés, colorés et savoureux qui encouragent de saines habitudes<br\/>alimentaires dès le plus jeune âge. Notre objectif est de fournir des repas<br\/>nutritifs et délicieux qui stimulent la concentration, favorisent le bien-être<br\/>et soutiennent le développement global des enfants.<\/p>",
             "btn_text": "",
             "btn_url": ""
           }
@@ -305,8 +305,8 @@
         "item_h9wANh": {
           "type": "item",
           "settings": {
-            "title": "Nous ne travaillons qu'avec des fournisseurs de tout premier ordre; ceux-ci nous garantissent une matière première d'excellente qualité. Notre personnel qualifié met son savoir-faire au service de la satisfaction de nos nombreux clients.",
-            "description": "",
+            "title": "En maison de repos",
+            "description": "<p>Dans les maisons<br\/>de repos, nous comprenons l'importance de la nutrition pour le bien-être et le<br\/>confort des résidents. Notre cuisine propose des plats variés et adaptés aux<br\/>besoins spécifiques des personnes âgées, en mettant l'accent sur la texture, la<br\/>saveur et la facilité de digestion. Nous nous engageons à offrir des repas qui<br\/>apportent plaisir et réconfort, tout en contribuant à maintenir la santé et la<br\/>vitalité des résidents.<\/p>",
             "btn_text": "",
             "btn_url": ""
           }
@@ -314,18 +314,9 @@
         "item_hAPJWn": {
           "type": "item",
           "settings": {
-            "title": "",
-            "description": "<p><\/p><p> Nous produisons actuellement +\/- 3500 repas répartis sur différentes cuisines et +\/- 2500 litres de potages en saison (novembre à mars).<br\/><br\/><br\/><\/p>",
+            "title": "Au travail",
+            "description": "<p><br\/>Pour les<br\/>entreprises et les lieux de travail, nous proposons des solutions de<br\/>restauration pratiques et équilibrées qui répondent aux exigences du quotidien<br\/>professionnel. <\/p><p>Nos menus sont<br\/>conçus pour être nourrissants, rapides et adaptés aux différents horaires et<br\/>modes de vie des employés. Nous mettons l'accent sur la qualité des<br\/>ingrédients, la diversité des plats et le service efficace, afin d'offrir une<br\/>expérience culinaire agréable et satisfaisante sur le lieu de travail.<\/p><p> <\/p><p>Nous sommes<br\/>également présents dans l'organisation de vos business lunch, soirées d'équipe<br\/>et réceptions clients, grâce à notre large gamme de produits qui répondra à<br\/>toutes vos exigences.<\/p>",
             "btn_text": "",
-            "btn_url": ""
-          }
-        },
-        "item_fhxAj8": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "description": "",
-            "btn_text": "Learn more",
             "btn_url": ""
           }
         }
@@ -333,8 +324,7 @@
       "block_order": [
         "item_qp7jPa",
         "item_h9wANh",
-        "item_hAPJWn",
-        "item_fhxAj8"
+        "item_hAPJWn"
       ],
       "settings": {
         "bg_color": "bg-body",
@@ -642,6 +632,33 @@
         "pt": 0,
         "pb": 0
       }
+    },
+    "richtext_9eDkjz": {
+      "type": "richtext",
+      "settings": {
+        "bg_color": "bg-primary",
+        "bg_opacity": 100,
+        "bg_gradient": "",
+        "text_color": "text-white",
+        "border_top_width": 1,
+        "border_bottom_width": 1,
+        "border_color": "border-body",
+        "border_opacity": 100,
+        "container_max_width": "",
+        "text_align": "text-center",
+        "title": "Qui sommes nous ?",
+        "title_font_size": "h2",
+        "description": "<p>Depuis plus de<br\/>trois décennies, notre société s'engage avec passion à fournir des solutions de<br\/>restauration de qualité pour les collectivités. Forts de notre longue<br\/>expérience, nous avons évolué pour devenir un pilier incontournable dans le<br\/>domaine de la cuisine collective. Notre histoire est celle d'un engagement<br\/>constant envers l'excellence culinaire, le service impeccable et le respect de<br\/>l'environnement.<br\/><\/p><p>Chaque jour,<br\/>notre équipe dévouée met son expertise au service de nos clients, en proposant<br\/>une cuisine responsable et savoureuse. Nous croyons fermement que la nourriture<br\/>ne devrait pas seulement nourrir le corps, mais aussi éveiller les papilles et<br\/>nourrir l'esprit. C'est pourquoi nous nous efforçons de créer des repas qui<br\/>allient fraîcheur, saveur et équilibre nutritionnel.<\/p><p><br\/>Au fil des<br\/>années, nous avons tissé des liens solides avec nos clients, basés sur la<br\/>confiance et le respect mutuel. Nous sommes fiers de compter parmi nos<br\/>partenaires des écoles, des entreprises, des hôpitaux et d'autres institutions<br\/>qui partagent notre vision d'une alimentation saine et responsable.<\/p><p>Aujourd'hui,<br\/>alors que nous célébrons nos 30 ans d'existence, nous restons plus que jamais<br\/>déterminés à innover et à nous adapter aux besoins changeants de nos clients et<br\/>de notre planète. Nous sommes impatients de continuer ce voyage avec vous, en<br\/>mettant notre expérience et notre passion au service de votre satisfaction.<\/p><p><\/p>",
+        "description_font_size": "fs-md",
+        "btn_primary_text": "",
+        "btn_primary_url": "",
+        "btn_primary_color": "btn-primary",
+        "btn_secondary_text": "",
+        "btn_secondary_url": "",
+        "btn_secondary_color": "btn-secondary",
+        "pt": 9,
+        "pb": 9
+      }
     }
   },
   "order": [
@@ -656,6 +673,7 @@
     "faq_7TT7z4",
     "testimonials_eFtnyC",
     "blog_slider_UUweWT",
-    "separator_pMbxtB"
+    "separator_pMbxtB",
+    "richtext_9eDkjz"
   ]
 }
