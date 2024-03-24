@@ -3,27 +3,11 @@
     "hero_carousel_CmDneU": {
       "type": "hero-carousel",
       "blocks": {
-        "slide_Q4UPQq": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "overlay_color": "#000000",
-            "overlay_opacity": 10,
-            "overlay_blur": 2,
-            "subtitle": "Developed by KondaSoft",
-            "title": "Welcome to KS BootShop Theme",
-            "description": "<p>Free Shopify Theme inspired by simplicity and elegance.<\/p>",
-            "btn_primary_text": "Shop all",
-            "btn_primary_url": "shopify:\/\/collections\/all",
-            "btn_secondary_text": "Latest arrivals",
-            "btn_secondary_url": "shopify:\/\/collections\/latest"
-          }
-        },
         "slide_TddqxQ": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.09_6781eb45.jpg",
-            "img_desktop": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.09_6781eb45.jpg",
+            "img_mobile": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.10_cfd287aa.jpg",
+            "img_desktop": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.10_cfd287aa.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 40,
             "overlay_blur": 0,
@@ -38,7 +22,6 @@
         }
       },
       "block_order": [
-        "slide_Q4UPQq",
         "slide_TddqxQ"
       ],
       "settings": {
@@ -123,83 +106,6 @@
         "pb": 10
       }
     },
-    "media_with_text_xTY8gi": {
-      "type": "media-with-text",
-      "blocks": {
-        "row_JkMDbM": {
-          "type": "row",
-          "settings": {
-            "bg_color": "bg-secondary",
-            "bg_opacity": 5,
-            "bg_gradient": "",
-            "text_color": "text-secondary",
-            "border_top_width": 1,
-            "border_bottom_width": 1,
-            "border_color": "border-primary",
-            "border_opacity": 10,
-            "media_align_desktop": "",
-            "media_border": "rounded",
-            "img": "shopify:\/\/shop_images\/istockphoto-536665840-612x612.jpg",
-            "img_orientation": "ratio-4x3",
-            "video_ratio": "adapt",
-            "video_autoplay": true,
-            "video_loop": true,
-            "video_muted": true,
-            "video_controls": true,
-            "external_video": "",
-            "text_align_mobile": "text-center",
-            "text_align_desktop": "text-desktop-start",
-            "subtitle": "Nous sommes spécialisés dans:",
-            "title": "",
-            "title_font_size": "h3",
-            "description": "<ul><li>La préparation et la distribution de repas destinés aux collectivités<\/li><li>La gestion et la mise en place de nouvelles infrastructures de restauration collective<\/li><li>La confection et la distribution de potages frais<\/li><li>La confection et la distribution de sandwiches dans les entreprises.<\/li><\/ul>",
-            "description_font_size": "fs-md",
-            "btn_primary_text": "",
-            "btn_primary_url": "",
-            "btn_primary_color": "btn-primary",
-            "btn_secondary_text": "",
-            "btn_secondary_url": "",
-            "btn_secondary_color": "btn-outline-primary",
-            "pt": 10,
-            "pb": 10
-          }
-        }
-      },
-      "block_order": [
-        "row_JkMDbM"
-      ],
-      "disabled": true,
-      "settings": {
-        "container_max_width": ""
-      }
-    },
-    "richtext_9eDkjz": {
-      "type": "richtext",
-      "settings": {
-        "bg_color": "bg-primary",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-white",
-        "border_top_width": 1,
-        "border_bottom_width": 1,
-        "border_color": "border-body",
-        "border_opacity": 100,
-        "container_max_width": "",
-        "text_align": "text-center",
-        "title": "Qui sommes nous ?",
-        "title_font_size": "h2",
-        "description": "<p>Depuis plus de trois décennies, notre société s'engage avec passion à fournir des solutions de restauration de qualité pour les collectivités. Forts de notre longue expérience, nous avons évolué pour devenir un pilier incontournable dans le domaine de la cuisine collective. Notre histoire est celle d'un engagement constant envers l'excellence culinaire, le service impeccable et le respect de l'environnement.<br\/><\/p><p>Chaque jour, notre équipe dévouée met son expertise au service de nos clients, en proposant une cuisine responsable et savoureuse. Nous croyons fermement que la nourriture ne devrait pas seulement nourrir le corps, mais aussi éveiller les papilles et nourrir l'esprit. C'est pourquoi nous nous efforçons de créer des repas qui allient fraîcheur, saveur et équilibre nutritionnel.<\/p><p>Au fil des années, nous avons tissé des liens solides avec nos clients, basés sur la confiance et le respect mutuel. Nous sommes fiers de compter parmi nos partenaires des écoles, des entreprises, des hôpitaux et d'autres institutions qui partagent notre vision d'une alimentation saine et responsable.<\/p><p>Aujourd'hui, alors que nous célébrons nos 30 ans d'existence, nous restons plus que jamais déterminés à innover et à nous adapter aux besoins changeants de nos clients et de notre planète. Nous sommes impatients de continuer ce voyage avec vous, en mettant notre expérience et notre passion au service de votre satisfaction.<\/p>",
-        "description_font_size": "fs-md",
-        "btn_primary_text": "",
-        "btn_primary_url": "",
-        "btn_primary_color": "btn-primary",
-        "btn_secondary_text": "",
-        "btn_secondary_url": "",
-        "btn_secondary_color": "btn-secondary",
-        "pt": 9,
-        "pb": 9
-      }
-    },
     "card_slider_BFzjjF": {
       "type": "card-slider",
       "blocks": {
@@ -280,6 +186,83 @@
         "pb": 11
       }
     },
+    "media_with_text_xTY8gi": {
+      "type": "media-with-text",
+      "blocks": {
+        "row_JkMDbM": {
+          "type": "row",
+          "settings": {
+            "bg_color": "bg-secondary",
+            "bg_opacity": 5,
+            "bg_gradient": "",
+            "text_color": "text-secondary",
+            "border_top_width": 1,
+            "border_bottom_width": 1,
+            "border_color": "border-primary",
+            "border_opacity": 10,
+            "media_align_desktop": "",
+            "media_border": "rounded",
+            "img": "shopify:\/\/shop_images\/istockphoto-536665840-612x612.jpg",
+            "img_orientation": "ratio-4x3",
+            "video_ratio": "adapt",
+            "video_autoplay": true,
+            "video_loop": true,
+            "video_muted": true,
+            "video_controls": true,
+            "external_video": "",
+            "text_align_mobile": "text-center",
+            "text_align_desktop": "text-desktop-start",
+            "subtitle": "Nous sommes spécialisés dans:",
+            "title": "",
+            "title_font_size": "h3",
+            "description": "<ul><li>La préparation et la distribution de repas destinés aux collectivités<\/li><li>La gestion et la mise en place de nouvelles infrastructures de restauration collective<\/li><li>La confection et la distribution de potages frais<\/li><li>La confection et la distribution de sandwiches dans les entreprises.<\/li><\/ul>",
+            "description_font_size": "fs-md",
+            "btn_primary_text": "",
+            "btn_primary_url": "",
+            "btn_primary_color": "btn-primary",
+            "btn_secondary_text": "",
+            "btn_secondary_url": "",
+            "btn_secondary_color": "btn-outline-primary",
+            "pt": 10,
+            "pb": 10
+          }
+        }
+      },
+      "block_order": [
+        "row_JkMDbM"
+      ],
+      "disabled": true,
+      "settings": {
+        "container_max_width": ""
+      }
+    },
+    "richtext_9eDkjz": {
+      "type": "richtext",
+      "settings": {
+        "bg_color": "bg-primary",
+        "bg_opacity": 100,
+        "bg_gradient": "",
+        "text_color": "text-white",
+        "border_top_width": 1,
+        "border_bottom_width": 1,
+        "border_color": "border-body",
+        "border_opacity": 100,
+        "container_max_width": "",
+        "text_align": "text-center",
+        "title": "Qui sommes nous ?",
+        "title_font_size": "h2",
+        "description": "<p>Depuis plus de trois décennies, notre société s'engage avec passion à fournir des solutions de restauration de qualité pour les collectivités. Forts de notre longue expérience, nous avons évolué pour devenir un pilier incontournable dans le domaine de la cuisine collective. Notre histoire est celle d'un engagement constant envers l'excellence culinaire, le service impeccable et le respect de l'environnement.<br\/><\/p><p>Chaque jour, notre équipe dévouée met son expertise au service de nos clients, en proposant une cuisine responsable et savoureuse. Nous croyons fermement que la nourriture ne devrait pas seulement nourrir le corps, mais aussi éveiller les papilles et nourrir l'esprit. C'est pourquoi nous nous efforçons de créer des repas qui allient fraîcheur, saveur et équilibre nutritionnel.<\/p><p>Au fil des années, nous avons tissé des liens solides avec nos clients, basés sur la confiance et le respect mutuel. Nous sommes fiers de compter parmi nos partenaires des écoles, des entreprises, des hôpitaux et d'autres institutions qui partagent notre vision d'une alimentation saine et responsable.<\/p><p>Aujourd'hui, alors que nous célébrons nos 30 ans d'existence, nous restons plus que jamais déterminés à innover et à nous adapter aux besoins changeants de nos clients et de notre planète. Nous sommes impatients de continuer ce voyage avec vous, en mettant notre expérience et notre passion au service de votre satisfaction.<\/p>",
+        "description_font_size": "fs-md",
+        "btn_primary_text": "",
+        "btn_primary_url": "",
+        "btn_primary_color": "btn-primary",
+        "btn_secondary_text": "",
+        "btn_secondary_url": "",
+        "btn_secondary_color": "btn-secondary",
+        "pt": 9,
+        "pb": 9
+      }
+    },
     "separator_pMbxtB": {
       "type": "separator",
       "settings": {
@@ -297,9 +280,9 @@
     "hero_carousel_CmDneU",
     "featured_products_nXJKQn",
     "separator_kfq8kz",
+    "card_slider_BFzjjF",
     "media_with_text_xTY8gi",
     "richtext_9eDkjz",
-    "card_slider_BFzjjF",
     "separator_pMbxtB"
   ]
 }
