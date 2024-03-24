@@ -61,7 +61,7 @@
         "069e870e-aed4-4929-bf73-c0daca8be18e": {
           "type": "desktop",
           "settings": {
-            "container_max_width": "",
+            "container_max_width": "1920",
             "logo_height": 32,
             "main_menu": "main-menu",
             "pt": 5,
