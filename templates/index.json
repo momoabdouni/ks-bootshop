@@ -110,33 +110,6 @@
         "pb": 11
       }
     },
-    "richtext_4miPYL": {
-      "type": "richtext",
-      "settings": {
-        "bg_color": "bg-primary",
-        "bg_opacity": 67,
-        "bg_gradient": "bg-gradient",
-        "text_color": "text-body",
-        "border_top_width": 1,
-        "border_bottom_width": 1,
-        "border_color": "border-primary",
-        "border_opacity": 100,
-        "container_max_width": "900",
-        "text_align": "text-center",
-        "title": "La \"New Générale Traiteur\", société de droit belge fût constituée il y a déjà plusieurs années.",
-        "title_font_size": "h3",
-        "description": "<p>Dans notre cuisine centrale, une équipe s'occupe de la confection de sandwiches pour les entreprises.<br\/>Bénéficiant d'une livraison quotidienne de pains frais, nous pouvons vous proposer un large éventail de sandwiches.<\/p><p>Nous pouvons également vous proposer des sandwiches pour vos réceptions, de toutes tailles ou confectionnés à partir de différents pains.<\/p>",
-        "description_font_size": "fs-lg",
-        "btn_primary_text": "",
-        "btn_primary_url": "",
-        "btn_primary_color": "btn-primary",
-        "btn_secondary_text": "",
-        "btn_secondary_url": "",
-        "btn_secondary_color": "btn-secondary",
-        "pt": 12,
-        "pb": 7
-      }
-    },
     "separator_kfq8kz": {
       "type": "separator",
       "disabled": true,
@@ -227,7 +200,7 @@
           "settings": {
             "img": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-24_a_19.03.10_63fe9b4e.jpg",
             "title": "Au travail",
-            "description": "<p><br\/>Pour les<br\/>entreprises et les lieux de travail, nous proposons des solutions de<br\/>restauration pratiques et équilibrées qui répondent aux exigences du quotidien<br\/>professionnel. <\/p><p>Nos menus sont<br\/>conçus pour être nourrissants, rapides et adaptés aux différents horaires et<br\/>modes de vie des employés. Nous mettons l'accent sur la qualité des<br\/>ingrédients, la diversité des plats et le service efficace, afin d'offrir une<br\/>expérience culinaire agréable et satisfaisante sur le lieu de travail.<\/p><p> <\/p><p>Nous sommes<br\/>également présents dans l'organisation de vos business lunch, soirées d'équipe<br\/>et réceptions clients, grâce à notre large gamme de produits qui répondra à<br\/>toutes vos exigences.<\/p>",
+            "description": "<p><br\/>Pour les<br\/>entreprises et les lieux de travail, nous proposons des solutions de<br\/>restauration pratiques et équilibrées qui répondent aux exigences du quotidien<br\/>professionnel. <\/p><p>Nos menus sont<br\/>conçus pour être nourrissants, rapides et adaptés aux différents horaires et<br\/>modes de vie des employés. Nous mettons l'accent sur la qualité des<br\/>ingrédients, la diversité des plats et le service efficace, afin d'offrir une<br\/>expérience culinaire agréable et satisfaisante sur le lieu de travail.<\/p><p>Nous sommes<br\/>également présents dans l'organisation de vos business lunch, soirées d'équipe<br\/>et réceptions clients, grâce à notre large gamme de produits qui répondra à<br\/>toutes vos exigences.<\/p>",
             "btn_text": "",
             "btn_url": ""
           }
@@ -274,7 +247,7 @@
         "item_btn_size": "btn-sm",
         "breakpoint_mobile": 1,
         "breakpoint_tablet": 2,
-        "breakpoint_desktop": 4,
+        "breakpoint_desktop": 3,
         "pt": 10,
         "pb": 11
       }
@@ -507,18 +480,88 @@
         "pt": 9,
         "pb": 9
       }
+    },
+    "card_list_RwArQg": {
+      "type": "card-list",
+      "blocks": {
+        "item_CbqENY": {
+          "type": "item",
+          "settings": {
+            "title": "First Card",
+            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
+            "btn_text": "Learn more",
+            "btn_url": ""
+          }
+        },
+        "item_YXHNze": {
+          "type": "item",
+          "settings": {
+            "title": "Second Card",
+            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
+            "btn_text": "Learn more",
+            "btn_url": ""
+          }
+        },
+        "item_ALx7qm": {
+          "type": "item",
+          "settings": {
+            "title": "Third Card",
+            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
+            "btn_text": "Learn more",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_CbqENY",
+        "item_YXHNze",
+        "item_ALx7qm"
+      ],
+      "settings": {
+        "bg_color": "bg-body",
+        "bg_opacity": 100,
+        "bg_gradient": "",
+        "text_color": "text-body",
+        "border_top_width": 0,
+        "border_bottom_width": 0,
+        "border_color": "border-body",
+        "border_opacity": 100,
+        "container_max_width": "",
+        "header_title": "Card List",
+        "header_title_font_size": "h2",
+        "header_description": "<p>Add on optional description for this section<\/p>",
+        "header_description_font_size": "fs-md",
+        "item_bg_color": "bg-body",
+        "item_bg_opacity": 100,
+        "item_text_color": "text-body",
+        "item_border_width": 1,
+        "item_border_color": "border-body",
+        "item_border_opacity": 100,
+        "item_shadow": "shadow-sm",
+        "item_text_align": "text-start",
+        "item_img_orientation": "ratio-4x3",
+        "item_title_font_size": "h5",
+        "item_description_font_size": "fs-md",
+        "item_btn_color": "btn-outline-primary",
+        "item_btn_size": "btn-sm",
+        "breakpoint_mobile": 1,
+        "breakpoint_tablet": 2,
+        "breakpoint_desktop": 3,
+        "pt": 10,
+        "pb": 10
+      }
     }
   },
   "order": [
     "hero_carousel_CmDneU",
     "featured_products_nXJKQn",
-    "richtext_4miPYL",
     "separator_kfq8kz",
     "media_with_text_xTY8gi",
     "card_slider_BFzjjF",
     "faq_7TT7z4",
     "testimonials_eFtnyC",
     "separator_pMbxtB",
-    "richtext_9eDkjz"
+    "richtext_9eDkjz",
+    "card_list_RwArQg"
   ]
 }
