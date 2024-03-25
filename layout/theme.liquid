@@ -31,6 +31,16 @@
   {{ content_for_header }}
 
   {% render 'styles-scripts' %}
+
+<style>
+#shopify-section-footer footer {
+    background-image: url() !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+</style>
+  
 </head>
 
 <body class="{{ request.page_type | prepend: 'page-type-' }}">
