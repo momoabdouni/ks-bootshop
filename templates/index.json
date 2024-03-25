@@ -156,7 +156,7 @@
         "border_opacity": 0,
         "container_max_width": "",
         "header_title": "Nos services",
-        "header_title_font_size": "h2",
+        "header_title_font_size": "h1",
         "header_description": "<p>   <\/p><p><\/p><p><\/p><p><\/p><p><\/p><p> <\/p>",
         "header_description_font_size": "fs-md",
         "slider_speed": 300,

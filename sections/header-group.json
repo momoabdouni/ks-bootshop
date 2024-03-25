@@ -10,18 +10,10 @@
           "settings": {
             "announcement": "Bienvenue chez Mamy Home !"
           }
-        },
-        "slide_mwF4Tk": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "announcement": "Free Shipping For All Orders Over $100"
-          }
         }
       },
       "block_order": [
-        "slide_j46kwk",
-        "slide_mwF4Tk"
+        "slide_j46kwk"
       ],
       "settings": {
         "bg_color": "bg-primary",
