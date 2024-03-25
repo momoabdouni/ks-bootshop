@@ -1,2 +1,201 @@
 {
+  "general": {
+    "accessibility": {
+      "skip_content": "",
+      "skip_product_content": "",
+      "menu": "",
+      "cart": "",
+      "search": "",
+      "wishlist": "",
+      "recently_viewed": "",
+      "account": "",
+      "localization": "",
+      "previous": "",
+      "next": "",
+      "close": "",
+      "remove": "",
+      "quantity": "",
+      "decrease_qty": "",
+      "increase_qty": "",
+      "color_options": "",
+      "social_media_links": "",
+      "payment_methods": "",
+      "cart_items": "",
+      "full_screen": "",
+      "pagination": "",
+      "announcements": "",
+      "slide_no": "",
+      "scroll_down": ""
+    },
+    "blog": {
+      "empty": "",
+      "count_articles": {
+        "one": "",
+        "other": ""
+      },
+      "tags_btn": "",
+      "tags_title": "",
+      "tags_show_all": "",
+      "posted_in": ""
+    },
+    "contact_form": {
+      "name": "Nom",
+      "email": "Mail",
+      "phone": "Numéro de téléphone",
+      "message": "Message",
+      "send": "Envoyer",
+      "success": "Merci !"
+    },
+    "search": {
+      "title": "",
+      "empty_html": "",
+      "continue_shopping": "",
+      "input_label": "",
+      "btn_label": "",
+      "suggestions": "",
+      "products": "",
+      "collections": "",
+      "articles": "",
+      "pages": "",
+      "results": {
+        "one": "",
+        "other": ""
+      },
+      "search_for": "",
+      "search_page": {
+        "title": "",
+        "title_search_performed": "",
+        "no_results": "",
+        "results_with_count_and_term": {
+          "one": "",
+          "other": ""
+        },
+        "count_products": {
+          "one": "",
+          "other": ""
+        }
+      }
+    },
+    "wishlist": {
+      "title": "",
+      "empty_html": "",
+      "continue_shopping": "",
+      "wishlist": "",
+      "add": "",
+      "remove": ""
+    },
+    "recently_viewed": {
+      "title": "",
+      "empty_html": "",
+      "continue_shopping": "",
+      "remove_all": ""
+    },
+    "newsletter": {
+      "input_label": "",
+      "confirmation_text": "",
+      "submit_button": ""
+    },
+    "404_page": {
+      "title": "",
+      "subtext": "",
+      "button": ""
+    },
+    "times": {
+      "ago": "",
+      "moments": "",
+      "second": "",
+      "seconds": "",
+      "minute": "",
+      "minutes": "",
+      "hour": "",
+      "hours": "",
+      "day": "",
+      "days": "",
+      "expired": ""
+    },
+    "localization": {
+      "title": ""
+    },
+    "payment_icons": {
+      "secure": ""
+    },
+    "password_page": {
+      "input_label": "",
+      "btn_label": ""
+    }
+  },
+  "collection": {
+    "empty_html": "",
+    "sort_by": "",
+    "count_products": {
+      "one": "",
+      "other": ""
+    },
+    "filters": {
+      "btn_text": "",
+      "title": "",
+      "reset": "",
+      "from": "",
+      "to": "",
+      "view_more": "",
+      "clear_filter": "",
+      "clear_all": "",
+      "view_results": {
+        "one": "",
+        "other": ""
+      }
+    }
+  },
+  "product": {
+    "add_to_cart": "",
+    "buy_it_now": "",
+    "save": "",
+    "sold_out": "",
+    "unavilable": "",
+    "quantity": "",
+    "unavailable": "",
+    "product_options": "",
+    "choose_options": "",
+    "select_variant": "",
+    "quick_view": "",
+    "regular_price": "",
+    "sale_price": "",
+    "stock_indicator": {
+      "low_stock_html": {
+        "one": "",
+        "other": ""
+      },
+      "normal_stock_html": "",
+      "no_stock": "",
+      "untracked_stock": ""
+    }
+  },
+  "cart": {
+    "title": "",
+    "empty_html": "",
+    "continue_shopping": "",
+    "quantity": "",
+    "property_view_file": "",
+    "applied_discounts": "",
+    "subtotal": "",
+    "taxes_shipping_at_checkout_html": "",
+    "checkout": "",
+    "note": {
+      "title": "",
+      "label": "",
+      "button": "",
+      "saved": ""
+    },
+    "shipping_calculator": {
+      "title": "",
+      "country": "",
+      "province": "",
+      "zip": "",
+      "btn_label": "",
+      "no_results": ""
+    },
+    "gift_upsell": {
+      "title": ""
+    }
+  }
 }
