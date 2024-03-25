@@ -1221,7 +1221,7 @@ a:hover .img-thumbnail-title {
 
 @media (min-width: 1200px) {
   .swiper-slider .swiper-scrollbar { 
-    max-width: 500px;
+    max-width: 100px;
   }
 }
 
