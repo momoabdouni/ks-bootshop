@@ -47,7 +47,7 @@
             "logo_height": 30,
             "main_menu": "",
             "collections_menu": "",
-            "social_icons": true,
+            "social_icons": false,
             "pt": 2,
             "pb": 2
           }
