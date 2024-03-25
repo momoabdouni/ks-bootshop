@@ -46,7 +46,7 @@
         "caption_max_width": "900",
         "caption_position": "carousel-caption-center",
         "subtitle_font_size": "fs-md",
-        "title_font_size": "h2",
+        "title_font_size": "h1",
         "description_font_size": "fs-lg",
         "btn_primary_color": "btn-primary",
         "btn_secondary_color": "btn-secondary",
