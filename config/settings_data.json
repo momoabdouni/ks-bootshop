@@ -49,7 +49,7 @@
     "cart_upsells_collection": "best-selling",
     "cart_upsells_limit": 5,
     "cart_gift_upsell_product": "gift-wrap",
-    "search": false,
+    "search": true,
     "search_collections": false,
     "search_articles": false,
     "search_pages": false,
